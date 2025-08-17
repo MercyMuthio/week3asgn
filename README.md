@@ -1,4 +1,4 @@
-# Hey
+# Hey There 😉
 # Discount Calculator
 
 A Python program that calculates the final price after applying a discount if the discount percentage meets the threshold.
@@ -31,7 +31,7 @@ The program uses a function called `calculate_discount()` that:
 - Formatted output
 
 ## Author
-[Mercy MUALUKO]
+[Mercy MUALUKO](MERCY MUALUKO)
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
