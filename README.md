@@ -31,7 +31,7 @@ The program uses a function called `calculate_discount()` that:
 - Formatted output
 
 ## Author
-[Mercy MUALUKO](MERCY MUALUKO)
+[Mercy MUALUKO](MERCY+MUALUKO)
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
